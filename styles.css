@@ -5,6 +5,7 @@
 
 .coloumn1{
     float: left;
+/* 	flex:0 0 33.33%; */
 	width:70px;
 }
 .coloumn2{
