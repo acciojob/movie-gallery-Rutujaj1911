@@ -3,16 +3,16 @@
   margin: 0 auto;
 }
 
-.coloumn1{
+.col-sm-1{
     float: left;
 /* 	flex:0 0 33.33%; */
 	width:70px;
 }
-.coloumn2{
+.col-sm-2{
     float: left;
 	width:140px;
 }
-.coloumn3{
+.col-sm-4{
     float: left;
 	width:280px;
 }
